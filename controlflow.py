@@ -52,7 +52,7 @@ def all_integers(num1,num2):
     for n in range(num1,num2):
         if n%3==0:
             sum+=n
-            print(sum)
+    print(sum)
 all_integers(0,10)
 
 
